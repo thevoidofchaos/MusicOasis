@@ -1,0 +1,1 @@
+The aim of this project is to create a music app with a social aspect to it. The users will be able to discover nearby users who have similar music tastes and invite them to a music session, chat, call etc. The also aimed to create a unique UI for the music player. The project is still in its early stages with a lot to complete!
